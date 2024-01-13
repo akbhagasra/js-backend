@@ -1,0 +1,7 @@
+PORT=8000
+CORS_ORIGIN=*
+MONGODB_URI=mongodb+srv://akbd:__password__@cluster0.yf7pw68.mongodb.net
+ACCESS_TOKEN_SECRET=someqwrbhtopfefe4wasdfte5edrf
+ACCESS_TOKEN_EXPIRY=1d
+REFRESH_TOKEN_SECRET=fregedfmiohelr4756knsdf3434pokafdfd
+REFRESH_TOKEN_EXPIRY=10d
